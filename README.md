@@ -1,23 +1,23 @@
 ## **Pesquisa Viral | Viral Search** 🌟
 
-#### Explore, analyze, and optimize any business profile on Instagram.
+#### Analyze any business profile on Instagram with ease.
 
-Welcome to the future of Instagram business profile analysis. This platform allows users to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement, activity trends, and follower growth.
+This platform allows you to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement and activity trends.
 
 <hr>
 
 #### **Live Demo**  
-🚀 **Try it out now:** [Business Profile Analyzer](https://your-app-url.com)
+🚀 **Try it now:** [Business Profile Analyzer](https://your-app-url.com)
 
 ---
 
 ### **Key Features**
 
-- **Advanced Profile Analysis**: Sort and filter posts by engagement, date, or any relevant metric.
-- **Interactive Performance Graphs**: Visualize profile activity and engagement with clean and easy-to-understand charts.
+- **Profile Analysis**: Sort and filter posts by number of likes, comments, engagement rate, date, and type of post.
+- **Interactive Performance Graphs**: Visualize profile engagement with clean, easy-to-understand, and aesthetically pleasing charts.
 - **VIP Beta Access**: A select group of users from a partnered course on Kiwify are part of an exclusive testing phase.
 - **Email Whitelisting**: Verify if you're part of the VIP testers through a seamless email verification system.
-- **OAuth 2 Login**: Use Facebook to log in effortlessly (plus, I gain a little each time you do 😉).
+- **OAuth 2 Login**: Use Facebook to log in effortlessly (plus, I thank you a lot if you do 😉 See why).
 
 ---
 
@@ -45,7 +45,8 @@ This platform is built for scalability, security, and performance, with key deci
   - **Recent Searches**: Users can access their last searches without any delay, cached for three days.
 - **Non-Relational Database**: Chosen for horizontal scalability and flexibility in handling diverse data structures as the platform grows.
 - **Webhook Integration**: Used to collect exclusive VIP user data from Kiwify, enabling seamless whitelisting of test users.
-- **Facebook OAuth 2.0**: Easily allows users to log in with their Facebook credentials, streamlining the onboarding process while benefiting the platform.
+- **Facebook OAuth 2.0**: Easily allows users to log in with their Facebook credentials, streamlining the onboarding process while benefiting the platform by increasing the Meta API usage rate.
+- **Instagram Graph API**: All data is collected through the Instagram Graph API, ensuring compliance with Instagram's terms and providing reliable, accurate business profile data.
 
 ---
 
@@ -59,10 +60,10 @@ With careful attention to security (OAuth 2.0, JWT, and Redis), performance (asy
 
 #### **Screenshots & Videos**
 
-![Dashboard Preview](https://your-screenshot-link.com)
+![Dashboard Preview](https://your-screenshot-link.com)  
 _A simple, clean dashboard offering insightful data at your fingertips._
 
-![Performance Graph](https://your-performance-graph-link.com)
+![Performance Graph](https://your-performance-graph-link.com)  
 _Graphs that help visualize key metrics in real-time._
 
 ---
