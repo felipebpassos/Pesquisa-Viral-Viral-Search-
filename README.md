@@ -2,12 +2,9 @@
 
 #### Analyze any business profile on Instagram with ease.
 
-This platform allows you to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement and activity trends.
+This platform allows you to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement and activity trends. 
 
-<hr>
-
-#### **Live Demo**  
-🚀 **Try it now:** [Business Profile Analyzer](https://your-app-url.com)
+**Try it now:** [Business Profile Analyzer](https://your-app-url.com)
 
 ---
 
