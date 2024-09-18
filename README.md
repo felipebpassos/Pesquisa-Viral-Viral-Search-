@@ -37,7 +37,9 @@ This platform is built for scalability, security, and performance, with key deci
 - **PHP (MVC Architecture)**: Utilizes the **Model-View-Controller (MVC)** pattern, where the business logic (Models), control logic (Controllers), and presentation layer (Views) are well-separated, ensuring maintainability and organization.
   - The application is currently monolithic, with the frontend and backend integrated, meaning the frontend is not decoupled via APIs, but all functionality is managed within the same codebase and server.
   - The architecture was designed for simplicity and efficiency in the early stages, with plans to evolve towards a more modular structure as the application scales.
-  
+
+- **Instagram Graph API**: All data is collected through the Instagram Graph API, ensuring compliance with Instagram's terms and providing reliable, accurate business profile data.
+- **Facebook OAuth 2.0**: Easily allows users to log in with their Facebook credentials, streamlining the onboarding process while benefiting the platform by increasing the Meta API usage rate.
 - **JWT for Secure Authentication**: Token-based authentication to ensure secure session management and reduce unnecessary requests to Facebook.
 - **Redis for Caching and Queuing**:
   - **Token storage**: OAuth tokens are stored with a three-day expiration to optimize API requests.
@@ -45,8 +47,6 @@ This platform is built for scalability, security, and performance, with key deci
   - **Recent Searches**: Users can access their last searches without any delay, cached for three days.
 - **Non-Relational Database**: Chosen for horizontal scalability and flexibility in handling diverse data structures as the platform grows.
 - **Webhook Integration**: Used to collect exclusive VIP user data from Kiwify, enabling seamless whitelisting of test users.
-- **Facebook OAuth 2.0**: Easily allows users to log in with their Facebook credentials, streamlining the onboarding process while benefiting the platform by increasing the Meta API usage rate.
-- **Instagram Graph API**: All data is collected through the Instagram Graph API, ensuring compliance with Instagram's terms and providing reliable, accurate business profile data.
 
 ---
 
