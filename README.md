@@ -18,7 +18,9 @@
 
 This platform allows you to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement and activity trends. 
 
-**Try now:** [pesquisaviral.com](https://pesquisaviral.com)
+<p align="center" style="color: gray;">
+    <i>👉 Try now <a href="https://pesquisaviral.com">pesquisaviral.com</a></i>
+</p>
 
 ### **Features**
 
