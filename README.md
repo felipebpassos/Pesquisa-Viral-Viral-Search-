@@ -14,11 +14,11 @@
     <i>Analyze any business profile on Instagram with ease.</i>
 </p>
 
+<h2 id="about">📝 About</h2>
+
 This platform allows you to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement and activity trends. 
 
 **Try now:** [pesquisaviral.com](https://pesquisaviral.com)
-
----
 
 ### **Features**
 
@@ -28,16 +28,22 @@ This platform allows you to filter, sort, and visualize performance and activity
 - **Email Whitelisting**: Verify if you're part of the VIP testers through a seamless email verification system.
 - **OAuth 2 Login**: Use Facebook to log in effortlessly (plus, I thank you a lot if you do 😉 See why).
 
----
-
 ### **Upcoming Features**
 
 - **Freemium, Plus, and Enterprise Plans**: Get more out of your Instagram data with tailored subscription plans (coming soon).
 - **Payment Integration**: Simple and secure payment processing for upgrades.
 
----
+### **Business Vision**
 
-#### **Tech Stack**
+This project is designed as a future SaaS product (B2C), focused on delivering value to Instagram business users looking to optimize their profiles. The flexible freemium model ensures accessibility, while premium plans (Plus and Enterprise) will cater to users who need more advanced features and data insights.
+
+With careful attention to security (OAuth 2.0, JWT, and Redis), performance (asynchronous tasks, caching), and scalability (non-relational databases), this platform is ready to grow alongside its users.
+
+<br>
+
+<h2 id="tech">💻 Tech Stack</h2>
+
+<br>
 
 - **PHP (MVC Architecture)**: Utilizes the **Model-View-Controller (MVC)** pattern, where the business logic (Models), control logic (Controllers), and presentation layer (Views) are well-separated, ensuring maintainability and organization.
   - The application is currently monolithic, with the frontend and backend integrated, meaning the frontend is not decoupled via APIs, but all functionality is managed within the same codebase and server.
@@ -53,17 +59,9 @@ This platform allows you to filter, sort, and visualize performance and activity
 - **Non-Relational Database**: Chosen for horizontal scalability and flexibility in handling diverse data structures as the platform grows.
 - **Webhook Integration**: Used to collect exclusive VIP user data from Kiwify, enabling seamless whitelisting of test users.
 
----
+<br>
 
-### **Business Vision**
-
-This project is designed as a future SaaS product (B2C), focused on delivering value to Instagram business users looking to optimize their profiles. The flexible freemium model ensures accessibility, while premium plans (Plus and Enterprise) will cater to users who need more advanced features and data insights.
-
-With careful attention to security (OAuth 2.0, JWT, and Redis), performance (asynchronous tasks, caching), and scalability (non-relational databases), this platform is ready to grow alongside its users.
-
----
-
-#### **Screenshots**
+<h2 id="screenshots">📱 Screenshots</h2>
 
 ![Dashboard Preview](https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true)  
 _Instagram Business Account Analysis._
@@ -74,7 +72,13 @@ _OAuth 2.0 Facebook Login._
 ![Dashboard](https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true)  
 _A simple, clean, and minimalistic dashboard._
 
----
+<br>
+
+<h2 id="demo">🚀 Demo</h2>
+
+[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/OjWBcroxG0Y)
+
+<br>
 
 **Let's connect!**  
 Feel free to [contact me](mailto:contato@simplifyweb.com.br) for any questions or collaboration opportunities.
