@@ -4,7 +4,7 @@
 
 This platform allows you to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement and activity trends. 
 
-**Try it now:** [pesquisaviral.com](https://pesquisaviral.com)
+**Try now:** [pesquisaviral.com](https://pesquisaviral.com)
 
 ---
 
@@ -24,10 +24,6 @@ This platform allows you to filter, sort, and visualize performance and activity
 - **Payment Integration**: Simple and secure payment processing for upgrades.
 
 ---
-
-### **Tech Stack and Architecture**
-
-This platform is built for scalability, security, and performance, with key decisions focused on providing the best user experience while maintaining robust backend performance.
 
 #### **Technologies Used**
 
