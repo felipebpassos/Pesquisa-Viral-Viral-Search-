@@ -65,13 +65,16 @@ With careful attention to security (OAuth 2.0, JWT, and Redis), performance (asy
 
 #### **Screenshots**
 
-![Dashboard Preview](https://your-screenshot-link.com)  
-_A simple, clean dashboard offering insightful data at your fingertips._
+![Dashboard Preview](https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true)  
+_Instagram Business Account Analysis._
 
-![Performance Graph](https://your-performance-graph-link.com)  
-_Graphs that help visualize key metrics in real-time._
+![Performance Graph](https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true)  
+_OAuth 2.0 Facebook Login._
+
+![Dashboard](https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true)  
+_A simple, clean, and minimalistic dashboard._
 
 ---
 
 **Let's connect!**  
-Feel free to [contact me](mailto:your-email@example.com) for any questions or collaboration opportunities.
+Feel free to [contact me](mailto:contato@simplifyweb.com.br) for any questions or collaboration opportunities.
