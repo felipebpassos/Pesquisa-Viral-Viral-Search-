@@ -2,7 +2,6 @@
 
 <p align="center">
  <a href="#about">About</a> • 
- <a href="#tech">Features</a> •
  <a href="#tech">Tech Stack</a> •  
  <a href="#screenshots">Screenshots</a> • 
  <a href="#demo">Demo</a>
