@@ -1,6 +1,18 @@
-## **Pesquisa Viral | Viral Search** 🌟
+<h1 align="center" style="font-weight: bold;">Pesquisa Viral | Viral Search 🌟</h1>
 
-#### Analyze any business profile on Instagram with ease.
+<p align="center">
+ <a href="#about">About</a> • 
+ <a href="#tech">Features</a> •
+ <a href="#tech">Tech Stack</a> •  
+ <a href="#screenshots">Screenshots</a> • 
+ <a href="#demo">Demo</a>
+</p>
+
+![Banner](https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true)
+
+<p align="center">
+    <i>Analyze any business profile on Instagram with ease.</i>
+</p>
 
 This platform allows you to filter, sort, and visualize performance and activity metrics for any business account on Instagram. With a clean and intuitive interface, users can easily uncover valuable insights into post engagement and activity trends. 
 
@@ -8,7 +20,7 @@ This platform allows you to filter, sort, and visualize performance and activity
 
 ---
 
-### **Key Features**
+### **Features**
 
 - **Profile Analysis**: Sort and filter posts by number of likes, comments, engagement rate, date, and type of post.
 - **Interactive Performance Graphs**: Visualize profile engagement with clean, easy-to-understand, and aesthetically pleasing charts.
@@ -25,7 +37,7 @@ This platform allows you to filter, sort, and visualize performance and activity
 
 ---
 
-#### **Technologies Used**
+#### **Tech Stack**
 
 - **PHP (MVC Architecture)**: Utilizes the **Model-View-Controller (MVC)** pattern, where the business logic (Models), control logic (Controllers), and presentation layer (Views) are well-separated, ensuring maintainability and organization.
   - The application is currently monolithic, with the frontend and backend integrated, meaning the frontend is not decoupled via APIs, but all functionality is managed within the same codebase and server.
@@ -51,7 +63,7 @@ With careful attention to security (OAuth 2.0, JWT, and Redis), performance (asy
 
 ---
 
-#### **Screenshots & Videos**
+#### **Screenshots**
 
 ![Dashboard Preview](https://your-screenshot-link.com)  
 _A simple, clean dashboard offering insightful data at your fingertips._
