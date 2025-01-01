@@ -27,7 +27,7 @@ This platform allows you to filter, sort, and visualize performance and activity
 - **Interactive Performance Graphs**: Visualize profile engagement with clean, easy-to-understand, and aesthetically pleasing charts.
 - **VIP Beta Access**: A select group of users from a partnered course on Kiwify are part of an exclusive testing phase.
 - **Email Whitelisting**: Verify if you're part of the VIP testers through a seamless email verification system.
-- **OAuth 2 Login**: Use Facebook to log in effortlessly (plus, I thank you a lot if you do 😉 See why).
+- **OAuth 2 Login**: Use Facebook to log in effortlessly.
 
 ### **Upcoming Features**
 
